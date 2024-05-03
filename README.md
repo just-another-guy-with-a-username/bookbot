@@ -1,2 +1,2 @@
 # bookbot
-Something indescribable
+Something indescribable. (time passes) now less so.
